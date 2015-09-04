@@ -1,22 +1,20 @@
 {
-  "name": "mongoose-auto-increment",
-  "version": "4.0.0",
+  "name": "mongoose-auto-incre",
+  "version": "4.0.1",
   "description": "This plugin allows you to auto-increment any field on any mongoose schema that you wish.",
   "repository": {
     "type": "git",
-    "url": "git://github.com/codetunnel/mongoose-auto-increment.git"
+    "url": "git://github.com/fengzhu/mongoose-auto-increment.git"
   },
   "dependencies": {
-    "extend": "^2.0.0"
-  },
-  "peerDependencies": {
-    "mongoose": "~4.0.0"
+    "extend": "^2.0.0",
+    "mongoose": "^4.1"
   },
   "devDependencies": {
     "async": "*",
     "chai": "*",
     "mocha": "*",
-    "mongoose": "~4.0.0"
+    "mongoose": "~4.1"
   },
   "keywords": [
     "mongoose",
